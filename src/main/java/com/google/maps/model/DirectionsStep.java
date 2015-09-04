@@ -86,4 +86,6 @@ public class DirectionsStep {
    * Transit Details</a> for more detail.
    */
   public TransitDetails transitDetails;
+
+  public String maneuver;
 }
